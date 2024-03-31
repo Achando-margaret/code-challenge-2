@@ -1,0 +1,32 @@
+## WEEK TWO CODE CHALLENGE
+
+## 31/03/2024
+
+## By Margaret Achando
+
+## Description
+   ## challenge1 Changing the case
+ This  function iterates through each character of the inputed string.If the character is uppercase it is changed to lowercase and if it is lowercase it is changed to uppercase
+   ## challenge2 Numbers between
+  The function takes two numbers.it determines the step needed to generate the sequence of the numbers.It then itterates from the starting number to the ending number.
+   ## challenge3 finding primenumbers in an array of numbers
+   The function uses trial division method to check if a number is prime
+## Installation
+You use git clone to be able to download the documents in the GitHub
+
+## Installation Requirements
+Git
+
+### Installation instruction
+```
+Git clone git@github.com:Achando-margaret/code-challenge-2.git
+
+```
+
+
+## Technologies used
+Github
+Javascript
+
+## Support and contact details
+github.com/Achand0-margaret
